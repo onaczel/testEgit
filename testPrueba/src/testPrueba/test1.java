@@ -4,6 +4,8 @@ package testPrueba;
 //esto es una nueva linea mas
 //uno
 //o dos comentarios mas
+//hola, esto es un nuevo comentario
+//yupi xD
 public class test1 {
 
 }
