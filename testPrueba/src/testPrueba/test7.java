@@ -7,5 +7,8 @@ public class test7 {
 
 =======
 	//NEw comment super pro ola de mar
+<<<<<<< HEAD
 // hola, me sale error?
+=======
+>>>>>>> branch 'master' of https://github.com/onaczel/testEgit.git
 }
